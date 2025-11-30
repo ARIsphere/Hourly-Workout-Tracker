@@ -1,0 +1,5 @@
+{
+  "name": "Hourly Workout Tracker",
+  "description": "A simple application to track hourly workout goals for exercises like jumps, squats, lifting weights, pushups, and crunches throughout the day.",
+  "requestFramePermissions": []
+}
